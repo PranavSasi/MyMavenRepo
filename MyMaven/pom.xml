@@ -22,7 +22,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>helloWorld.OddOrEven</mainClass>
+							<mainClass>helloWorld.HelloProgram</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
