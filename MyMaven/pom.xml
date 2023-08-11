@@ -22,7 +22,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>excelReadSample.ExcelMain</mainClass>
+							<mainClass>helloWorld.OddOrEven</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
